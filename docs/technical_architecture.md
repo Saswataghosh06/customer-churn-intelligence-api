@@ -1,4 +1,3 @@
-```markdown
 # Technical Architecture & Engineering Deep-Dive
 
 **Document Version:** 1.0  

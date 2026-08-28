@@ -1,4 +1,3 @@
-```markdown
 # System Data Dictionary & Schema Reference
 
 **Document Version:** 1.0  
