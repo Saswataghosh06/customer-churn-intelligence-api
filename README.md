@@ -16,7 +16,7 @@
 
 <br><br>
 <b>Saswata Ghosh</b><br>
-<a href="[YOUR_GITHUB_LINK]">GitHub</a> · <a href="https://www.linkedin.com/in/saswata-ghosh06/">LinkedIn</a> · <a href="mailto:saswataghosh2022@gmail.com">Email</a>
+<a href="https://github.com/Saswataghosh06/customer-churn-intelligence-api">GitHub</a> · <a href="https://www.linkedin.com/in/saswata-ghosh06/">LinkedIn</a> · <a href="mailto:saswataghosh2022@gmail.com">Email</a>
 
 <br><br>
 
@@ -217,7 +217,7 @@ streamlit run frontend/app.py
 <summary><b>Data Audit & Statistical EDA (For Data Analysts & ML Engineers)</b></summary>
 Detailed statistical distributions, correlation matrices, class imbalance analysis, and feature engineering justifications.
 <br><br>
-<a href="docs/data_audit_and_eda.md"><b>View Data Audit & EDA Report</b></a>
+<a href="docs/data_audit_eda.md"><b>View Data Audit & EDA Report</b></a>
 </details>
 
 <details>
