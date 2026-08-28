@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+mlflow_data/
+postgres_data/
+ml_pipeline/
+notebooks/
+data/
+frontend/
+.env
+.git

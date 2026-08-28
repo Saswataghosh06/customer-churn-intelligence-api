@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:15
+    container_name: churn_postgres
+    environment:
+      POSTGRES_USER: churn_user
+      POSTGRES_PASSWORD: churn_pass
+      POSTGRES_DB: churn_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  api:
+    build: .
+    container_name: churn_api_prod
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=postgresql+asyncpg://churn_user:churn_pass@db:5432/churn_db
+      - API_KEY=super_secret_churn_key_123
+    depends_on:
+      - db
+
+volumes:
+  postgres_data:
