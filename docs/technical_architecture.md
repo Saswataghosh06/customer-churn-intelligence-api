@@ -15,7 +15,9 @@
 <br><br>
 <b>Saswata Ghosh</b><br>
 <a href="https://github.com/Saswataghosh06/customer-churn-intelligence-api">GitHub</a> · <a href="https://www.linkedin.com/in/saswata-ghosh06/">LinkedIn</a> · <a href="mailto:saswataghosh2022@gmail.com">Email</a>
----
+<div>
+  
+
 
 ## 1. System Request Lifecycle
 To understand the architecture, you must trace a single `GET /predictions/churn/cus_mock_5` request from network to memory and back.
@@ -129,4 +131,5 @@ To demonstrate real-world production readiness, here are the three major infrast
 2. **Rate Limiting:** Implement `slowapi` to prevent a single client from spamming the `/predictions/` endpoint and overloading the DB.
 3. **HTTPS:** Terminate SSL/TLS at a load balancer (AWS ALB/Nginx) before forwarding traffic to the Docker container.
 4. **DB Connection Pooling:** Tune the `pool_size` and `max_overflow` parameters in `create_async_engine` to handle sudden traffic spikes without overwhelming Postgres.
+</div>
 ```
