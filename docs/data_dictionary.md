@@ -17,6 +17,8 @@
 <a href="https://github.com/Saswataghosh06/customer-churn-intelligence-api">GitHub</a> · <a href="https://www.linkedin.com/in/saswata-ghosh06/">LinkedIn</a> · <a href="mailto:saswataghosh2022@gmail.com">Email</a>
 </div>
 
+---
+
 **Document Version:** 1.0  
 **System:** Customer Churn Intelligence API  
 **Primary Database:** PostgreSQL 15 (Dockerized)  
