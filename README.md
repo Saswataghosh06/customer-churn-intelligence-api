@@ -1,7 +1,5 @@
 <div align="center">
-<img width="400" height="100" alt="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"> &nbsp;&nbsp; 
-<img width="100" height="100" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"> &nbsp;&nbsp;
-<img width="100" height="100" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/64ca71d0-9002-4147-aa04-22e3f03b1686" />
 </div>
 
 <h1 align="center">Customer Churn Intelligence API</h1>
@@ -18,7 +16,7 @@
 <b>Saswata Ghosh</b><br>
 <a href="https://github.com/Saswataghosh06/customer-churn-intelligence-api">GitHub</a> · <a href="https://www.linkedin.com/in/saswata-ghosh06/">LinkedIn</a> · <a href="mailto:saswataghosh2022@gmail.com">Email</a>
 
-<br><br>
+<br>
 
 **The Business Case:** 
 [Executive Summary](#2-executive-summary) · [Key Findings](#3-key-findings-the-data-proves-it) · [Recommendations](#4-strategic-recommendations)<br>
