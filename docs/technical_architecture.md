@@ -1,9 +1,20 @@
-# Technical Architecture & Engineering Deep-Dive
+<div align="center">
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/64ca71d0-9002-4147-aa04-22e3f03b1686" />
+</div>
 
-**Document Version:** 1.0  
-**Architecture Pattern:** Event-Driven Async Microservice  
-**Author:** Saswata Ghosh  
+<h1 align="center">Customer Churn Intelligence API</h1>
+<h3 align="center">Technical Architecture and Deep Dive</h3>
 
+<div align="center">
+
+<img alt="status" src="https://img.shields.io/badge/status-production_ready-1E3A5F?style=flat-square">
+<img alt="data" src="https://img.shields.io/badge/data-Simulated%20SaaS%20Billing-8B98AE?style=flat-square">
+<img alt="stack" src="https://img.shields.io/badge/stack-FastAPI%20%7C%20MLflow%20%7C%20Docker-1E3A5F?style=flat-square">
+<img alt="scale" src="https://img.shields.io/badge/ARR-$5.1M_%7C_At_Risk-$3.9M-e74c3c?style=flat-square">
+
+<br><br>
+<b>Saswata Ghosh</b><br>
+<a href="https://github.com/Saswataghosh06/customer-churn-intelligence-api">GitHub</a> · <a href="https://www.linkedin.com/in/saswata-ghosh06/">LinkedIn</a> · <a href="mailto:saswataghosh2022@gmail.com">Email</a>
 ---
 
 ## 1. System Request Lifecycle
