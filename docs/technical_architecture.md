@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Customer Churn Intelligence API</h1>
-<h3 align="center">Technical Architecture and Deep Dive</h3>
+<h3 align="center">Technical Architecture and Engineering Deep Dive</h3>
 
 <div align="center">
 
@@ -15,9 +15,16 @@
 <br><br>
 <b>Saswata Ghosh</b><br>
 <a href="https://github.com/Saswataghosh06/customer-churn-intelligence-api">GitHub</a> · <a href="https://www.linkedin.com/in/saswata-ghosh06/">LinkedIn</a> · <a href="mailto:saswataghosh2022@gmail.com">Email</a>
-<div>
-  
+</div>
 
+---
+
+**Document Version:** 1.0  
+**System:** Customer Churn Intelligence API  
+**Primary Database:** PostgreSQL 15 (Dockerized)  
+**Data Granularity:** Customer-level (Master), Invoice-line level (Transactions)  
+
+---
 
 ## 1. System Request Lifecycle
 To understand the architecture, you must trace a single `GET /predictions/churn/cus_mock_5` request from network to memory and back.
